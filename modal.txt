@@ -1,0 +1,4 @@
+! Title: Remove unnecessary modals
+
+! Adobe
+helpx.adobe.com##.is-Open.mobile-place-middle.mobile-place-center.dexter-Modal_overlay
